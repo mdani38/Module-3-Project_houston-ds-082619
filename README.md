@@ -10,7 +10,7 @@ The goal of your project is to query the database to get the data needed to perf
 
 For each hypothesis, be sure to specify both the null hypothesis and the alternative hypothesis for your question. You should also specify if this is one-tail or a two-tail test.
 
-In addition to answering this question with a hypothesis test, you will also need to come up with at least 3 other hypotheses to test on your own. These can by anything that you think could be important information for the company/stakeholder.
+In addition to answering this question with a hypothesis test, you will also need to come up with *at least 3 other hypotheses* to test on your own. These can by anything that you think could be important information for the company/stakeholder.
 
 ## STAKEHOLDERS
 
@@ -60,3 +60,5 @@ process and findings in a way that clearly shows both your technical expertise
 
 - Football: European Soccer Dataset https://www.kaggle.com/hugomathien/soccer
     - Is there a statistical difference in the odds of winning a game when a team is playing in front of their home crowd?
+    
+You can absolutely choose your own dataset! Just present your idea for your data to one of the coaches or instructors by the end of the first day.

@@ -16,6 +16,8 @@ In addition to answering this question with a hypothesis test, you will also nee
 
 The use of alternative datasets brings with it a question of who your audience is for this data science project. Picking an audience at the beginning of your project helps you define the scope of the project. Once a stakeholder is picked, keep them in mind as you’re generating your statistical analysis. When translating statistics for a non-technical audience, be sure you are answering questions that are relevant to the stakeholder and being clear with the limitations of your findings.
 
+![audience gif](./images/audience.gif)
+
 ## DELIVERABLES
 
 To complete this project, you will need to turn in the following 3 deliverables:

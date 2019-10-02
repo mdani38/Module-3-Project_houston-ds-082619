@@ -65,4 +65,4 @@ process and findings in a way that clearly shows both your technical expertise
     
 You can absolutely choose your own dataset! Just present your idea for your data to one of the coaches or instructors by the end of the first day.
 
-![eenie meenie minie mo gif](choose.gif)
+![eenie meenie minie mo gif](./images/choose.gif)

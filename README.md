@@ -64,3 +64,5 @@ process and findings in a way that clearly shows both your technical expertise
     - Is there a statistical difference in the odds of winning a game when a team is playing in front of their home crowd?
     
 You can absolutely choose your own dataset! Just present your idea for your data to one of the coaches or instructors by the end of the first day.
+
+![eenie meenie minie mo gif](choose.gif)

@@ -2,18 +2,18 @@
 
 ## Team Members 
 
-Brandon Lau
-Matthew Danielson
+- Brandon Lau
+- Matthew Danielson
 
 ## PROJECT GOAL
 
 #### Analysis of Pitchfork reviews 
 
-More than 18,000 reviews 
+- More than 18,000 reviews 
 
-Album titles, artist, label, author, content, score
+- Album titles, artist, label, author, content, score
 
-Statistical testing of findings
+- Statistical testing of findings
 
 ## STATISTICAL ANALYSIS 
 

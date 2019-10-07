@@ -10,7 +10,7 @@ Statistical testing of findings
 
 ## STATISTICAL ANALYSIS 
 
-Effect of Genre
+Effect of Genre (Pop/R&B vs
 Label Significance
 Pitchfork Staff Vs. Freelance
 Length of Reviews
@@ -18,9 +18,8 @@ Length of Reviews
 
 ## STAKEHOLDERS
 
-The use of alternative datasets brings with it a question of who your audience is for this data science project. Picking an audience at the beginning of your project helps you define the scope of the project. Once a stakeholder is picked, keep them in mind as you’re generating your statistical analysis. When translating statistics for a non-technical audience, be sure you are answering questions that are relevant to the stakeholder and being clear with the limitations of your findings.
+Creating a Competitor to Pitchfork 
 
-![audience gif](./images/audience.gif)
 
 ## DELIVERABLES
 
@@ -50,23 +49,9 @@ process and findings in a way that clearly shows both your technical expertise
           4. Take no more than 5 minutes to present
           5. Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
 
-## DATABASES
+## DATA
 
-- Grades: University of Wisconsin, Madison https://www.kaggle.com/Madgrades/uw-madison-courses
+Pitchfork Reviews https://www.kaggle.com/nolanbconaway/pitchfork-data
 
-    - Does your teacher have a statistically significant correlation with the number of As earned in a course?
-    - Does time of day have a statistically significant correlation with the number of As earned in a course?
-    - Do STEM fields have a statistically significantly difference in the number of As earned when compared to the humanities?
-
-- Music: Pitchfork Reviews https://www.kaggle.com/nolanbconaway/pitchfork-data
-
-    - Is there a statistical difference between the ratings of two different music genres?
-    - Is there a difference between the ratings of {insert genre here} music and all other music?
-    - Are the albums from one label rated differently than the wider population?
-
-- Football: European Soccer Dataset https://www.kaggle.com/hugomathien/soccer
-    - Is there a statistical difference in the odds of winning a game when a team is playing in front of their home crowd?
-    
-You can absolutely choose your own dataset! Just present your idea for your data to one of the coaches or instructors by the end of the first day.
 
 

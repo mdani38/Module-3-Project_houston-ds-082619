@@ -2,15 +2,19 @@
 
 ## PROJECT GOAL
 
-The goal of this project is to test your ability to gather information from a real-world database and use your knowledge of statistical analysis and hypothesis testing to generate analytical insights that can be meaningful to the company/stakeholder.
+#### Analysis of Pitchfork reviews 
+> 18,000 reviews 
+ Album titles, artist, label, author, content, score
 
-## STATISTICAL ANALYSIS REQUIREMENTS
+Statistical testing of findings
 
-The goal of your project is to query the database to get the data needed to perform a statistical analysis. In this statistical analysis, you'll need to perform a hypothesis test to answer at least one of the questions from the database you choose.
+## STATISTICAL ANALYSIS 
 
-For each hypothesis, be sure to specify both the null hypothesis and the alternative hypothesis for your question. You should also specify if this is one-tail or a two-tail test.
+Effect of Genre
+Label Significance
+Pitchfork Staff Vs. Freelance
+Length of Reviews
 
-In addition to answering this question with a hypothesis test, you will also need to come up with *at least 3 other hypotheses* to test on your own. These can by anything that you think could be important information for the company/stakeholder.
 
 ## STAKEHOLDERS
 
@@ -65,4 +69,4 @@ process and findings in a way that clearly shows both your technical expertise
     
 You can absolutely choose your own dataset! Just present your idea for your data to one of the coaches or instructors by the end of the first day.
 
-![eenie meenie minie mo gif](./images/choose.gif)
+

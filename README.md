@@ -1,16 +1,23 @@
 # Module 3 Project
 
+## Team Members 
+
+Brandon Lau
+Matthew Danielson
+
 ## PROJECT GOAL
 
 #### Analysis of Pitchfork reviews 
-> 18,000 reviews 
- Album titles, artist, label, author, content, score
+
+More than 18,000 reviews 
+
+Album titles, artist, label, author, content, score
 
 Statistical testing of findings
 
 ## STATISTICAL ANALYSIS 
 
-Effect of Genre (Pop/R&B vs
+Effect of Genre (Pop/R&B vs Electronic)
 Label Significance
 Pitchfork Staff Vs. Freelance
 Length of Reviews
@@ -18,36 +25,56 @@ Length of Reviews
 
 ## STAKEHOLDERS
 
-Creating a Competitor to Pitchfork 
+A new rival to Pitchfork's review model
 
+---
+
+## Results 
+
+### Effect of Genre (Pop/R&B vs Electronic)
+
+Average score: 7.005
+
+Rock makes up most of review population
+
+3 of the top 4 most reviewed albums have lower averages than mean
+
+Ran Welch's t -test for Electronic and Pop to determine statistical significance
+
+Can reject null hypthesis
+
+Electronic music was reviewed more favorably than Pop
+
+
+### Label Significance
+
+Threw out labels with less than 40 albums and self - released albums
+
+Ran two tailed z test for each label against populations
+
+Only 15 pass test and null hypothesis can be rejected
+
+All of these 15 have higher means than the average score of population
+
+Majority of labels  have rock albums but 3 have other focuses 
+
+
+### Pitchfork Staff Vs. Freelance
+
+Staff reviews are slightly more critical than freelance reviews. 
+
+May be due to higher quality reviews for staff members 
+
+### Length of Reviews
+Longer reviews are more favorable than shorter reviews
+
+Shorter reviews may be "troll" accounts
 
 ## DELIVERABLES
 
-To complete this project, you will need to turn in the following 3 deliverables:
+Presentation: https://www.canva.com/design/DADnXbysEmc/m-yjjjw8PdcrJUuCHHi3oA/view?utm_content=DADnXbysEmc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton 
 
-1. A **Jupyter Notebook** containing any code you've written for this project. This work will need to be pushed to your GitHub repository in order to submit your project.
-
-     1. The notebook contains well-formatted, professional looking markdown cells explaining any substantial code. All functions have docstrings that act as professional-quality documentation.
-     2. The notebook is written to technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
-     3. The notebook should be well organized, easy to follow, and code is commented where appropriate.
-     4. Your notebook should clearly show how you arrived at your results for each hypothesis test, including how you calculated your p-values.
-
-2. A user-focused **README.md** file that explains your process, methodology and findings.
-
-  - Take the time to make sure that you craft your story well, and clearly explain your
-process and findings in a way that clearly shows both your technical expertise
-*and* your ability to communicate your results!
-
-3. An **"Executive Summary" Keynote/PowerPoint/Google Slide presentation** that explains the hypothesis tests you answered, your findings, and their relevance to the company/stakeholders.
-
-     1. Make sure to also add and commit your non-technical presentation to your repository
-     2. Contain between 5-10 professional quality slides detailing:
-     
-          1. A high-level overview of your methodology
-          2. The results of your hypothesis tests
-          3. Any real-world recommendations you would like to make based on your findings (ask yourself--why should the executive team care about what you found? How can your findings help the company/stakeholder?)
-          4. Take no more than 5 minutes to present
-          5. Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
+Key Notebooks: Mod3Project-Lau.ipynb, MAD_Hypothesis_Testing_2.ipynb
 
 ## DATA
 
